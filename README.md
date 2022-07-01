@@ -3,12 +3,17 @@ Hello! My name is Matheus Dias and I am currently a Masters students in Statisti
 Here is a list of projects I have worked on, divided by area:
 
 **Causal Inference**
+
 - Randomized Controlled Trials and Cash Transfers
+
 **Machine Learning (Structured Data)**
+
 - Identifying subnotified cities in domestic violence reporting
 - Analysis of relationship between funding and probability of getting elected
+
 **Natural Langauge Processing**
 - Assessing the approval of President Bolsonaro using sentiments analysis of tweets
+
 **Explainability**
 - Anchor your predictions
 
